@@ -1,5 +1,4 @@
-# wes_data_analysis
-Whole Exome Sequencing (WES) Data visualization Toolkit
+# wes_data_analysis- Whole Exome Sequencing (WES) Data visualization Toolkit
 
 This Python package provides a comprehensive set of Python scripts for visualizing whole exome sequencing (WES) data. It allows to generate insightful charts and plots, including copy number variation (CNV), oncoplot, correlation heatmap, scatter plot, and more.
 
